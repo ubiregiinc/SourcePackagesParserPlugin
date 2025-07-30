@@ -25,7 +25,7 @@ let package = Package(
             dependencies: [.target(name: "swift-packages-parser")]
         ),
         .binaryTarget(name: "swift-packages-parser",
-                      url: "https://github.com/ubiregiinc/LicenseList/releases/download/0.4.2/swift-packages-parser-macos.artifactbundle.zip",
-                      checksum: "3e00b8b89622a33a4c2f30f5dca2d2229daf3bdf93432eea6a0d7c740cb2ff22")
+                      url: "https://github.com/ubiregiinc/LicenseList/releases/download/0.4.3/swift-packages-parser-macos.artifactbundle.zip",
+                      checksum: "d47f077c7094ecdd2bea78fbaf73f9ba913b8b69b0f640af86a73b362a8c3076")
     ]
 )
